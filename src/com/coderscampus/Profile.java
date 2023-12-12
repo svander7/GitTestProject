@@ -26,4 +26,4 @@ public class Profile {
 	public void setProfileName(String name) {
 		this.ProfileName = name;
 	}
-	
+}
